@@ -1,0 +1,9 @@
+	VOCABULAIRES
+
+1-	select * from Relation
+2- 	select * from Relation where nomCol = valeur
+3-	unir Relation1 et Relation2
+4-	projeter nomCol de Relation (select X from Y)
+5-	intersection entre Relation1 et Relation2
+6-	difference entre Relation1 et Relation2
+7-	produit cartesien entre Relation1 et Relation2
